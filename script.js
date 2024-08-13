@@ -1,1 +1,5 @@
-console.log("Conexão feita com sucesso!")
+function imprimirMsg () {
+    console.log("Conexão feita com sucesso!")
+}
+
+imprimirMsg(3)
